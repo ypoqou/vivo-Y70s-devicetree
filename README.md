@@ -1,5 +1,6 @@
 # Android device tree for vivo Y70s (erdv9630)
-#此储存库文件不完整请移步到    https://sourceforge.net/projects/vivo-y70s-devicetree/  #
+#此储存库文件不完整请移步到    https://sourceforge.net/projects/vivo-y70s-devicetree/  
+                             https://gitlab.com/aceedg/vivo-y70s-devicetree        #
 
 ```
 #
