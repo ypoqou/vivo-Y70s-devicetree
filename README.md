@@ -1,4 +1,5 @@
-# Android device tree for vivo vivo (erdv9630)
+# Android device tree for vivo Y70s (erdv9630)
+#此储存库文件不完整请移步到#
 
 ```
 #
